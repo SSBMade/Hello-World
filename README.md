@@ -1,2 +1,5 @@
 # Hello-World
-My Ffirst repository on GitHub
+
+My first repository on GitHub
+
+I love :chocolate: and :smiling:.
